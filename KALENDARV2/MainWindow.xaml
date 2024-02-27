@@ -1,0 +1,15 @@
+﻿<Window x:Class="KALENDARV2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KALENDARV2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Календарь" HorizontalAlignment="Center" Margin="0,42,0,0" VerticalAlignment="Top" FontSize="48"/>
+        <Button Name="WatchB" Content="Просмотр календаря" HorizontalAlignment="Left" Margin="104,163,0,0" VerticalAlignment="Top" FontSize="48" Width="618" Click="WatchB_Click"/>
+        <Button Name="ChangeB" Content="Редактирование событий" HorizontalAlignment="Left" Margin="104,253,0,0" VerticalAlignment="Top" FontSize="48" Width="618" Click="ChangeB_Click"/>
+
+    </Grid>
+</Window>
