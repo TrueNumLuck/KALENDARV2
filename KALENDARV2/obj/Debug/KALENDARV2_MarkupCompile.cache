@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
+C:\jopapopa\KALENDARV2\KALENDARV2\obj\Debug\
+=======
 C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\
+>>>>>>> 9902917753b9da979199e5ea4905859f1629aa57
 KALENDARV2
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
+C:\jopapopa\KALENDARV2\KALENDARV2\App.xaml
+2906699080
+
+7198219205
+13-38814620
+MainWindow.xaml;WatchWindow.xaml;
+=======
 C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\App.xaml
 2-522924145
 
 61973587535
 13-38814620
 ChangeWindow.xaml;MainWindow.xaml;
+>>>>>>> 9902917753b9da979199e5ea4905859f1629aa57
 
 False
 
