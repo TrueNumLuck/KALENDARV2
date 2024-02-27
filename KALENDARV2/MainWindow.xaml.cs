@@ -27,8 +27,8 @@ namespace KALENDARV2
 
         private void WatchB_Click(object sender, RoutedEventArgs e)
         {
-            //Window WatchWindow = new WatchWindow();
-            //WatchWindow.Show();
+            Window WatchWindow = new WatchWindow();
+            WatchWindow.Show();
         }
 
         private void ChangeB_Click(object sender, RoutedEventArgs e)
