@@ -1,0 +1,17 @@
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\bin\Debug\KALENDARV2.exe.config
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\bin\Debug\KALENDARV2.exe
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\bin\Debug\KALENDARV2.pdb
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2.csproj.AssemblyReference.cache
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\ChangeWindow.g.cs
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\MainWindow.g.cs
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\App.g.cs
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2_MarkupCompile.cache
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2_MarkupCompile.lref
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\MainWindow.baml
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\ChangeWindow.baml
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2.g.resources
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2.Properties.Resources.resources
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2.csproj.GenerateResource.cache
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2.csproj.CoreCompileInputs.cache
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2.exe
+C:\Users\snek\Desktop\folder\KALENDARV2\KALENDARV2\obj\Debug\KALENDARV2.pdb
